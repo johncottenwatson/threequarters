@@ -1,6 +1,4 @@
 # three quarters
-a little coloring game with fourteen orders of magnitude
-
 coloring in three of a square's four subsquares colors in the square
 
 enter top-left:         '1'
